@@ -1,5 +1,5 @@
 const express = require('express');
-const { GuestListService } = require('./guest-list-service');
+const { GuestListService } = require('./lib/guest-list-service');
 
 const port = process.env.PORT || 3000;
 const service = new GuestListService();
