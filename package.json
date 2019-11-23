@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "faker": "^4.1.0",
+    "jsonwebtoken": "^8.5.1",
     "ramda": "^0.26.1"
   },
   "devDependencies": {
